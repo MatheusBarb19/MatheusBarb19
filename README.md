@@ -1,4 +1,4 @@
-#Olá, Eu sou o Matheus Barbosa 👋
+Olá, Eu sou o Matheus Barbosa 👋
 
 - 🔭 Atualmente trabalho na área de finanças de uma concessionária de veículo
 - 🌱 Formado em Análise e Desenvolvimento de Sistema

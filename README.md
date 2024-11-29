@@ -1,6 +1,6 @@
 Olá, Eu sou o Matheus Barbosa 👋
 
-- 🔭 Atualmente trabalho na área de finanças de uma concessionária de veículo
+- 🔭 Atualmente trabalho na administrativa de uma importadora de peças automotivas
 - 🌱 Formado em Análise e Desenvolvimento de Sistema
 - 👯 Estudando Python, JavaScript, HTML e CSS
 - 🤔 Contate-me no e-mail: mateus.felixbarb@gmail.com

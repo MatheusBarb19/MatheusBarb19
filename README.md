@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus Barbosa! 👋  
 
-🔹 **Atuação:** Trabalho na área administrativa de uma importadora de peças automotivas 🚗  
+🔹 **Atuação:** Analista de Dados, Empresa de Onibus Pássaro Marron  🚌  
 🔹 **Formação:** Graduado em **Análise e Desenvolvimento de Sistemas** 🎓  
 🔹 **Pós-graduação:** Cursando **Desenvolvimento Full Stack** na Estácio 📚  
 🔹 **Áreas de Interesse:** Desenvolvimento Web, Automação de Processos, Análise de Dados e Indicadores (KPIs) 📊  
